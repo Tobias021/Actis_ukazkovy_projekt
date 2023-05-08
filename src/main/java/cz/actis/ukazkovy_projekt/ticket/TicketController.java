@@ -95,7 +95,7 @@ public class TicketController {
      * @param model s novými daty
      * @return model při úspěchu, null při neexistujícím id
      */
-    @PutMapping("/tickety/update/")
+    @PutMapping("/tickety/update")
     public TicketModel update(@RequestBody TicketModel model) {
         if (service.idExists(model.getId())) {
             repository.save(model);
