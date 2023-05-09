@@ -9,7 +9,7 @@ Endpointy vrací hodnoty v JSON.
 
 ## Konektivita databáze
 Konfigurace ovladače databáze se nachází v souboru /resources/application.properties. Nachází se zde url jdbc ovladače a přihlašovací údaje databáze.   
-Konfigurace dll-auto=update nastavuje chování JPA tak, že se v databázi vytváří a upravuje tabulka podle datového modelu TicketModel.
+Konfigurace ddl-auto=update nastavuje chování JPA tak, že se v databázi vytváří a upravuje tabulka podle datového modelu TicketModel.
 
 
 ## Přehled tříd
