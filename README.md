@@ -35,5 +35,5 @@ Funkčnost této repository zajišťuje JPA.
 Nachází se zde vlastní metoda findByJeVyrizen(boolean jeVyrizen), která vrací záznamy podle požadovaného stavu vyřízení.
 
 ### TicketService
-Tato pomocná třída obsahuje metodu **createTestTickts**(), která zapíše předdefinované záznamy do databáze.  
+Tato pomocná třída obsahuje metodu **createTestTickets**(), která zapíše předdefinované záznamy do databáze.  
 metoda idExists(long id) vrací boolean podle toho, jestli záznam z daným id existuje.  
