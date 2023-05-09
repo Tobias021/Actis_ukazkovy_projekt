@@ -1,5 +1,5 @@
 # Actis_ukazkovy_projekt
-Springboot projekt vytvořený v Javě 17, Springboot 3.0.6 a Maven. Vývojové prostředí IntelliJ IDEA.
+Projekt vytvořený v Javě 17, Springboot 3.0.6 a Maven. Vývojové prostředí IntelliJ IDEA.
 
 Vytvořené API obsluhuje databázi ticketů. Ticket obsahuje ID, předmět, popis, (boolean) je_vyrizen a datum vytvoření.
 
