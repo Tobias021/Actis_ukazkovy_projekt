@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>cz.actis</groupId>
 	<artifactId>ukazkovy_projekt</artifactId>
-	<version>0.1.1</version>
+	<version>0.1.2</version>
 	<name>ukazkovy_projekt</name>
 	<description>Ukázkový projekt pro firmu Actis</description>
 	<properties>
