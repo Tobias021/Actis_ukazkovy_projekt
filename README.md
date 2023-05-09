@@ -36,4 +36,4 @@ Nachází se zde vlastní metoda findByJeVyrizen(boolean jeVyrizen), která vrac
 
 ### TicketService
 Tato pomocná třída obsahuje metodu **createTestTickets**(), která zapíše předdefinované záznamy do databáze.  
-metoda idExists(long id) vrací boolean podle toho, jestli záznam z daným id existuje.  
+metoda idExists(long id) vrací boolean podle toho, jestli záznam s daným id existuje.  
